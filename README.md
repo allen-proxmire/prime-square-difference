@@ -1,5 +1,4 @@
-# The Prime Square-Difference Identity
-A Modular Constraint Between Squared Primes
+# The Prime Triangle and Prime Square-Difference Identity
 
 ## Overview
 
@@ -10,7 +9,7 @@ A Modular Constraint Between Squared Primes
 
 ## Citation
 
-Proxmire, A. (2025). *The Prime Square-Difference Identity: A Modular Constraint Between Squared Primes* Zenodo. DOI: 10.5281/zenodo.zenodo.17740447
+Proxmire, A. (2025). *The Prime Triangle and Prime Square-Difference Identity* Zenodo. DOI: 10.5281/zenodo.zenodo.17740447
 [![DOI](https://zenodo.org/badge/1090249857.svg)](https://doi.org/10.5281/zenodo.17533227)
 
 
