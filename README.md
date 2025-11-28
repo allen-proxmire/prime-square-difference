@@ -30,7 +30,7 @@ In the structured case where the skip-one gap is \(6\), the PSD Factor recovers 
 Proxmire, A. (2025). *The Prime Triangle and Prime Square-Difference Identity*. Zenodo.  
 DOI: 10.5281/zenodo.17740447  
 
-[![DOI](https://zenodo.org/badge/1090249857.svg)](https://doi.org/10.5281/zenodo.17533227)
+[![DOI](https://zenodo.org/badge/1105479978.svg)](https://doi.org/10.5281/zenodo.17740447)
 
 ## License
 
