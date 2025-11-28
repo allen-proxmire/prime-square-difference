@@ -2,7 +2,7 @@
 
 ## Overview
 The Prime Square-Difference Identity
-(pn+2)2 = (pn)2 + 12x
+(pn+2)^2 = (pn)^2 + 12x
 gives rise to an integer PSD Factor x with a rigid last-digit pattern {0, 4, 6}.
 The factor admits both a modular explanation and a natural analytic approximation
 x ≈ g pn/6 tied to the magnitude of the skip-one prime gap.
